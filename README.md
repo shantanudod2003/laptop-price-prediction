@@ -55,7 +55,7 @@ laptop-price-prediction/
 ![image](https://github.com/shantanudod2003/laptop-price-prediction/blob/0966fea87fdcddbc6ef8dbd5be30ff13487f0c8d/Screenshot2026-1.png
 )
 
-![image](https://github.com/your-username/repo-name/assets/....)
+![image](https://github.com/shantanudod2003/laptop-price-prediction/blob/bb37fcdc16718c7eb59151115a299395c3e4edf1/Screenshot%202026-2.png)
 
 
 ![image](https://github.com/your-username/repo-name/assets/....)
@@ -93,4 +93,5 @@ Data preprocessing includes:
 Handling missing values
 Feature scaling
 Encoding categorical variables
+
 
